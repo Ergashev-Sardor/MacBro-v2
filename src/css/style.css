@@ -1,0 +1,13 @@
+@import "normaleze.css";
+@import "reset.css";
+* {
+  box-sizing: border-box;
+}
+
+.wrapper {
+  min-height: 100%;
+}
+.wrapper-header {
+  height: 60px;
+  background-color: #1D1D1D;
+}/*# sourceMappingURL=style.css.map */
